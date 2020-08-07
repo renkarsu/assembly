@@ -1,2 +1,3 @@
 # assembly
-this is a graveyard for assembly code
+This is a graveyard for assembly code.
+Someday, I will make contents or summary for assembly code.
